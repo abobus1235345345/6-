@@ -1,0 +1,8 @@
+D:\ИС-22\PracticSix\PracticSix\bin\Debug\PracticSix.exe.config
+D:\ИС-22\PracticSix\PracticSix\bin\Debug\PracticSix.exe
+D:\ИС-22\PracticSix\PracticSix\bin\Debug\PracticSix.pdb
+D:\ИС-22\PracticSix\PracticSix\obj\Debug\PracticSix.csproj.AssemblyReference.cache
+D:\ИС-22\PracticSix\PracticSix\obj\Debug\PracticSix.csproj.SuggestedBindingRedirects.cache
+D:\ИС-22\PracticSix\PracticSix\obj\Debug\PracticSix.csproj.CoreCompileInputs.cache
+D:\ИС-22\PracticSix\PracticSix\obj\Debug\PracticSix.exe
+D:\ИС-22\PracticSix\PracticSix\obj\Debug\PracticSix.pdb
